@@ -3,7 +3,7 @@
 🌱 I’m currently learning web development.
 - I can do HTML, CSS, SASS, JS, Astro, and TS now.
 - I enjoy debugging and have a keep on eye for identifying edge cases and inconsistencies in code.
-⚡ Fun fact: 🏕️ Camping, 🧗 Bourldering, 🎲 Board games, 🗺️ Just watching google map, 🚶 Walk some new place ...
+- ⚡ Fun fact: 🏕️ Camping, 🧗 Bourldering, 🎲 Board games, 🗺️ Just watching google map, 🚶 Walk some new place ...
 
 <!--
 **hello-chloe-seoyeong/hello-chloe-seoyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
